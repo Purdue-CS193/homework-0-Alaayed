@@ -11,12 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Saleh Alaayed First CS193 Homework
+## AY0 (the zero represents the letter o, this is gamer leet speak that has been partially adopted by programmers.) PLEASE HIRE ME 
 ### Header 3
-
-- Bulleted
-- List
+  FAV THINGS IN THE WORLD
+- WORKING FOR MONEY
+- WORKING FOR FREE
+- WORKING TOWARDS THE DOWNFALL OF MANKIND
+- Reading, The Stormlight Archive bangs hard. 
+- Lies of Locke Lamora
+- The Name of The Wind
+- Perfume
+- Red Rising
+- Dune 
+- Mistborn, era 1 and 2 
+- The Wheel of Time
 
 1. Numbered
 2. List
